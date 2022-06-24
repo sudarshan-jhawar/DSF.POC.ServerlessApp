@@ -1,13 +1,5 @@
 {
   "profiles": {
-    "DSF.POC.Serverless.AWS": {
-      "commandName": "Project",
-      "launchBrowser": true,
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "applicationUrl": "https://localhost:53097;http://localhost:53098"
-    },
     "Mock Lambda Test Tool": {
       "commandName": "Executable",
       "commandLineArgs": "--port 5050",
